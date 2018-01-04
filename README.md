@@ -16,3 +16,5 @@ Beginner's guide
 https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
 
 ## Tutorials
+Node.js + Knex + MySQL
+https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
