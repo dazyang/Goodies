@@ -8,13 +8,13 @@ Great article series on Web frameworks
 https://www.sitepen.com/blog/2017/06/13/if-we-chose-our-javascript-framework-like-we-chose-our-music/
 
 **UI/UX**  
-On Miller's Law  
+`On Miller's Law`   
 https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931
 
 **ChatBots**  
-Beginner's guide
+`Beginner's guide`
 https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
 
 ## Tutorials
-Node.js + Knex + MySQL
+``Node.js + Knex + MySQL``
 https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
