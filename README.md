@@ -21,6 +21,9 @@ https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b90
 **Data Visualization**  
 A beautiful gallery of data visualization examples — http://datavizproject.com/
 
+**Strategy & Management**  
+Teal management – https://www.strategy-business.com/article/00344?gko=10921
+
 ## Tutorials
 ``Node.js + Knex + MySQL``–
 https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
