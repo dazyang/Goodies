@@ -30,3 +30,6 @@ https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
 
 ## Open Source Materials  
 Best free culture and education media on the web – http://www.openculture.com/
+
+## MISC 
+http://musicforprogramming.net/
