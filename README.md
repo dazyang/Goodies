@@ -10,7 +10,7 @@ https://www.sitepen.com/blog/2017/06/13/if-we-chose-our-javascript-framework-lik
 How APIs Become API Products –  
 https://medium.com/apis-and-digital-transformation/how-apis-become-api-products-580b5c01b96f
 
-**JavaScript**
+**JavaScript**  
 kangax.github.io/compat-table/es6
 
 **UI/UX**  
