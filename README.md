@@ -17,6 +17,9 @@ kangax.github.io/compat-table/es6
 `On Miller's Law`–
 https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931
 
+`Making Sense of Device Resolution Pixel Density`
+https://blog.prototypr.io/making-sense-of-device-resolution-pixel-density-40922aeb8a6
+
 **ChatBots**  
 `Beginner's guide`–
 https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
