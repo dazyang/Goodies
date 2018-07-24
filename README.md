@@ -29,6 +29,7 @@ A beautiful gallery of data visualization examples — http://datavizproject.com
 
 **Strategy & Management**  
 Teal management – https://www.strategy-business.com/article/00344?gko=10921
+Design Thinking Builds Strong Team – https://www.nngroup.com/articles/design-thinking-team-building/
 
 ## Tutorials
 ``Node.js + Knex + MySQL``–
