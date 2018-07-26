@@ -11,7 +11,11 @@ How APIs Become API Products –
 https://medium.com/apis-and-digital-transformation/how-apis-become-api-products-580b5c01b96f
 
 **JavaScript**  
-kangax.github.io/compat-table/es6
+kangax.github.io/compat-table/es6  
+https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5
+
+**React Stuff**  
+https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f
 
 **UI/UX**  
 `On Miller's Law`–
@@ -19,6 +23,9 @@ https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-bre
 
 `Making Sense of Device Resolution Pixel Density`
 https://blog.prototypr.io/making-sense-of-device-resolution-pixel-density-40922aeb8a6
+
+`Typesetting for user interface`
+https://shakuro.com/blog/typesetting-for-user-interfaces/
 
 **ChatBots**  
 `Beginner's guide`–
