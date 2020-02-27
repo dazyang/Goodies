@@ -1,7 +1,5 @@
 # Goodies
 **Treasure hunting on the net, this is where I store goodies!**  
-## Tools
-https://webflow.com/ — Responsive web design tool, CMS and hosting plateform — Really neat! Make sure you check it out. 
 
 ## Articles & News
 Great article series on Web frameworks –
@@ -10,11 +8,16 @@ https://www.sitepen.com/blog/2017/06/13/if-we-chose-our-javascript-framework-lik
 How APIs Become API Products –  
 https://medium.com/apis-and-digital-transformation/how-apis-become-api-products-580b5c01b96f
 
-**JavaScript**  
+## Programming tuts  
+
+## JavaScript  
 kangax.github.io/compat-table/es6  
 https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5
 
-**React Stuff**  
+**Array methods**  
+https://mariusschulz.com/blog/the-some-and-every-array-methods-in-javascript
+
+## React  
 https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f
 
 **UI/UX**  
